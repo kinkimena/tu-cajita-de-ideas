@@ -1,0 +1,13 @@
+# Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.trash/
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# macOS
+__MACOSX
+.AppleDouble
+.LSOverride
